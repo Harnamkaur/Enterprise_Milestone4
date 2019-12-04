@@ -1,0 +1,16 @@
+{
+ "name": "group11-milestone3",
+ "version": "1.0.0",
+ "description": "Patients API",
+ "dependencies": {
+  "restify": "^4.1.1",
+  "restify-errors": "^8.0.1",
+  "save": "^2.3.0"
+ },
+ "author": "Peter Doe",
+ "private": true,
+ "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+ }
+}
